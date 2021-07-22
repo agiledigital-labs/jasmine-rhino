@@ -61,7 +61,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
         <dependency>
             <groupId>org.mozilla</groupId>
             <artifactId>rhino</artifactId>
-            <version>1.7R4</version>
+            <version>1.7.13</version>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
